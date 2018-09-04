@@ -10,3 +10,4 @@
 
 - KITTI - 8 classes - [link](https://github.com/utiasSTARS/pykitti/blob/3661c441026f84519ded0bbfd7db5592d6e20b41/pykitti/tracking.py#L223)
 - CityScapes - 30 classes (8 groups) - [link](https://www.cityscapes-dataset.com/dataset-overview/)
+- Udacity - 4 classes - [link](https://github.com/udacity/self-driving-car/tree/master/annotations)
