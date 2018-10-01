@@ -1,4 +1,4 @@
-# obj-det-classes
+# Object Detection Dataset-Classes
 
 - PASCAL VOC - 20 classes - [link](https://github.com/NVIDIA/DIGITS/blob/master/examples/semantic-segmentation/pascal-voc-classes.txt)
 - MSCOCO - 80 classes - [link](https://github.com/amikelive/coco-labels/blob/master/coco-labels-2014_2017.txt)
